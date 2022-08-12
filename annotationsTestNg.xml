@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true"
+          name="C:/Users/moazzam/Desktop/testNgReview/src/test/java/reviewTestNG/annotations.java">
+        <classes>
+            <class name="reviewTestNG.annotations"></class>
+            <class name="reviewTestNG.annotations"></class>
+        </classes>
+    </test>
+</suite>
+
